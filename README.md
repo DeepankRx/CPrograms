@@ -7,10 +7,14 @@ Sample Input:5 Sample Output:
               21*22*23*24*25
               16*17*18*19*20
               6*7*8*9*10
+              
 Answer : number_pattern.c
+
 Question : Username validator
 1. The username is between 4 and 25 characters.
 2. It must start with a letter.
 3. It can only contain letters, numbers, and the underscore character.
 4. It cannot end with an underscore character.
+
+
 Answer : password_validator.c
